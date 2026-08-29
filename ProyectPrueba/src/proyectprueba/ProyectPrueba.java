@@ -16,6 +16,9 @@ public class ProyectPrueba {
     public static void main(String[] args) {
         // TODO code application logic here   
         System.out.println("HOLA ESTOY EN LA RAMA DE MIRNA");        
+        
+        System.out.println("PRUEBA 2");
+        
     }// FIN MAIN
      
 }// FIN CLASS 
