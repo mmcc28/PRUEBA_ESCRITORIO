@@ -19,6 +19,8 @@ public class ProyectPrueba {
         System.out.println("Estoy en la rama de liana");
         System.out.print("Me preocupa este proyecto");
         
+        System.out.println("-----------------------");
+        
     }// FIN MAIN
      
 }// FIN CLASS 
