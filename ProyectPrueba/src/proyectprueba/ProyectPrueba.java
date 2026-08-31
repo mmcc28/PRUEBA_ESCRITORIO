@@ -15,7 +15,9 @@ public class ProyectPrueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here   
-        System.out.println("HOLA ESTOY EN LA RAMA DE MIRNA");        
+        System.out.println("HOLA ESTOY EN LA RAMA DE MIRNA");   
+        System.out.println("Estoy en la rama de liana");
+        
     }// FIN MAIN
      
 }// FIN CLASS 
