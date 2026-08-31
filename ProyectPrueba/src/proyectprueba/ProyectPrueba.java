@@ -22,6 +22,12 @@ public class ProyectPrueba {
         System.out.println("PRUEBA ");
         System.out.println("PRUEBA 1");
         System.out.println("PRUEBA 2");
+        System.out.println("HOLA ESTOY EN LA RAMA DE MIRNA");   
+        System.out.println("Estoy en la rama de liana");
+        System.out.print("Me preocupa este proyecto");
+        
+        System.out.println("-----------------------");
+        
     }// FIN MAIN
      
 }// FIN CLASS 
