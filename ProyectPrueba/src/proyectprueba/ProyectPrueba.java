@@ -17,7 +17,7 @@ public class ProyectPrueba {
         // TODO code application logic here   
         System.out.println("HOLA ESTOY EN LA RAMA DE MIRNA");        
         
-        System.out.println("PRUEBA 2");
+        System.out.println("HOLA ESTOY CON LIANA EN LLAMADa");
         
     }// FIN MAIN
      
