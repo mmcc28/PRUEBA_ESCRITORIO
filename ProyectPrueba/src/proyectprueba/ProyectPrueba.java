@@ -19,6 +19,9 @@ public class ProyectPrueba {
         
         System.out.println("HOLA ESTOY CON LIANA EN LLAMADa");
         
+        System.out.println("PRUEBA ");
+        System.out.println("PRUEBA 1");
+        System.out.println("PRUEBA 2");
     }// FIN MAIN
      
 }// FIN CLASS 
